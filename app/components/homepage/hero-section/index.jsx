@@ -124,9 +124,9 @@ function HeroSection() {
                 <span className="text-amber-300">HTML5</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Mongoose</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"',"}</span>
                 <span className="text-amber-300">Prisma</span>
-                <span className="text-gray-400">{"'],"}</span>
+                <span className="text-gray-400">{"',"}</span>
                 <span className="text-amber-300">postgresql</span>
               </div>
               <div>
