@@ -1,12 +1,18 @@
 export const experiences = [
   {
-    id: 1,
+    id: 3,
+    title: "Frontend Developer",
+    company: "We Are The Next LLC",
+    duration: "(29 Oct 2024 - present)",
+  },
+  {
+    id: 2,
     title: "Frontend Developer Intern",
     company: "TechnoGenix Solutions",
     duration: "(18 July 2024 - present) -> 3+ Months",
   },
   {
-    id: 2,
+    id: 1,
     title: "Learning Frontend Developing",
     company: "Learner Programming Heroes Team",
     duration: "(28 Dec 2023 - present) -> 6+ Months",
