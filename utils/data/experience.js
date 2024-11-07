@@ -1,10 +1,10 @@
 export const experiences = [
-  {
-    id: 3,
-    title: "Frontend Developer",
-    company: "We Are The Next LLC",
-    duration: "(29 Oct 2024 - present)",
-  },
+  // {
+  //   id: 3,
+  //   title: "Frontend Developer",
+  //   company: "We Are The Next LLC",
+  //   duration: "(29 Oct 2024 - present)",
+  // },
   {
     id: 2,
     title: "Frontend Developer Intern",
